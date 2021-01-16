@@ -42,9 +42,9 @@
   <!-- <summary>:zap: GitHub Stats</summary> -->
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shankar75031&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 <!-- </details> -->
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankar75031&langs_count=10&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<br />
 
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shankar75031&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
