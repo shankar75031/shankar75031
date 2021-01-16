@@ -1,5 +1,5 @@
-### Hi there, I'm Preveen Raj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
-![visitors](https://visitor-badge.glitch.me/badge?page_id=preveenraj.preveenraj)
+### Hi there, I'm Prabhashankar Kannapan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shankar75031.shankar75031)
 ## A Human Being, also a Full Stack Developer!!  
 
 - 🌱 I’m currently learning to live myself out the max. 🏄
@@ -9,10 +9,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="preveenraj.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="preveenraj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="preveenraj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="preveenraj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- [<img align="left" alt="preveenraj.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+[<img align="left" alt="shankar75031 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="shankar75031 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="shankar75031 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -39,14 +39,14 @@
 <br />
 <!-- <details> -->
   <!-- <summary>:zap: GitHub Stats</summary> -->
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=preveenraj&show_icons=true&hide_border=true&count_private=true" />
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shankar75031&show_icons=true&hide_border=true&count_private=true&theme=dark" />
 <!-- </details> -->
 
-[![Top Langs](https://github-readme-stats.preveenraj.vercel.app/api/top-langs/?username=preveenraj&langs_count=10&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankar75031&langs_count=10&layout=compact&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My wakatime stats](https://github-readme-stats.preveenraj.vercel.app/api/wakatime?username=preveenraj&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shankar75031&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://preveenraj.com
-[twitter]: https://twitter.com/preveen_raj
-[instagram]: https://instagram.com/preveen.raj
-[linkedin]: https://linkedin.com/in/preveenraj
+<!-- [website]: https://preveenraj.com -->
+[twitter]: https://twitter.com/shankar75031
+[instagram]: https://instagram.com/shankar75031
+[linkedin]: https://linkedin.com/in/shankar75031
