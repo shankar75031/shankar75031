@@ -36,14 +36,15 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
-<br />
+
 <!-- <details> -->
   <!-- <summary>:zap: GitHub Stats</summary> -->
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shankar75031&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+  <img align="left" style="margin-bottom: 16px; margin-top:32px;" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shankar75031&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 <!-- </details> -->
 <br />
-
+<br />
+<br />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankar75031&langs_count=10&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
