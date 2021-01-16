@@ -6,6 +6,7 @@
 - 🥅 2021 Goals: Contributing to Open Source projects.
 - ⚡ Fun fact: I love to go for a drive, skate and play guitar.
 - 💬 Ask me about what's happening in Kerala, that's my native place.
+- :waxing_crescent_moon: A dark theme lover.
 
 ### Connect with me:
 
@@ -39,12 +40,12 @@
 <br />
 <!-- <details> -->
   <!-- <summary>:zap: GitHub Stats</summary> -->
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shankar75031&show_icons=true&hide_border=true&count_private=true&theme=dark" />
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shankar75031&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 <!-- </details> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankar75031&langs_count=10&layout=compact&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankar75031&langs_count=10&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shankar75031&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shankar75031&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [website]: https://preveenraj.com -->
 [twitter]: https://twitter.com/shankar75031
