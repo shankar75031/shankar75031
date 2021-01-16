@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="preveenraj.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+<!-- [<img align="left" alt="prabhashankar.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="shankar75031 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="shankar75031 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="shankar75031 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -52,7 +52,7 @@
 
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shankar75031&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [website]: https://preveenraj.com -->
+<!-- [website]: https://prabhashankar.in -->
 [twitter]: https://twitter.com/shankar75031
 [instagram]: https://instagram.com/shankar75031
 [linkedin]: https://linkedin.com/in/shankar75031
