@@ -51,12 +51,12 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankar75031&langs_count=10&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.shankar75031.vercel.app/api/top-langs/?username=shankar75031&langs_count=10&layout=compact&hide_border=true)](https://github.com//shankar75031)
 
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shankar75031&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My wakatime stats](https://github-readme-stats.shankar75031.vercel.app/api/wakatime?username=shankar75031&hide_border=true)](https://github.com/shankar75031)
 
 <!-- [website]: https://prabhashankar.in -->
 
-[twitter]: https://twitter.com/shankar75031
+[twitter]: https://twitter.com/shankar7503
 [instagram]: https://instagram.com/shankar75031
 [linkedin]: https://linkedin.com/in/shankar75031
