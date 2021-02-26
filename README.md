@@ -6,8 +6,8 @@
 
 - 🌱 I’m currently learning to live myself out the max. 🏄
 - 🥅 2021 Goals: Contributing to Open Source projects.
-- ⚡ Fun fact: I love to go for a drive, skate and play guitar.
-- 💬 Ask me about what's happening in Kerala, that's my native place.
+- ⚡ Fun fact: I love to listen to music, go for a drive and also CODE.
+- 💬 Ask me about what's happening in Kochi, that's my native place.
 - :waxing_crescent_moon: A dark theme lover.
 
 ### Connect with me:
@@ -15,7 +15,7 @@
 <!-- [<img align="left" alt="prabhashankar.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 
 [<img align="left" alt="shankar75031 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="shankar75031 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="prabhashankarkannapan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="shankar75031 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
