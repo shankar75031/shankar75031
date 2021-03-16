@@ -48,16 +48,16 @@
 
 <!-- <details> -->
   <!-- <summary>:zap: GitHub Stats</summary> -->
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shankar75031&show_icons=true&hide_border=true&count_private=true" />
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shankar75031&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&text_color=3498db" />
 <!-- </details> -->
 <br />
 <br />
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.shankar75031.vercel.app/api/top-langs/?username=shankar75031&langs_count=10&layout=compact&hide_border=true)](https://github.com//shankar75031)
+[![Top Langs](https://github-readme-stats.shankar75031.vercel.app/api/top-langs/?username=shankar75031&langs_count=10&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db)](https://github.com//shankar75031)
 
-[![My wakatime stats](https://github-readme-stats.shankar75031.vercel.app/api/wakatime?username=shankar75031&hide_border=true)](https://github.com/shankar75031)
+[![My wakatime stats](https://github-readme-stats.shankar75031.vercel.app/api/wakatime?username=shankar75031&hide_border=true&bg_color=00000000&text_color=3498db)](https://github.com/shankar75031)
 
 <!-- [website]: https://prabhashankar.in -->
 
