@@ -19,7 +19,7 @@
 [<img align="left" alt="prabhashankar.web.app" width="22px" src="https://img.icons8.com/cotton/2x/domain.png" />][website]
 [<img align="left" alt="prabhashankar_k | Twitter" width="22px" src="https://img.icons8.com/fluent/2x/twitter.png" />][twitter]
 [<img align="left" alt="prabhashankarkannapan | LinkedIn" width="22px" src="https://img.icons8.com/color/2x/linkedin.png" />][linkedin]
-[<img align="left" alt="prabhashankarkannapan | Facebook" width="22px" src="https://img.icons8.com/fluent/2x/facebook.png" />][facebook]
+[<img align="left" alt="prabhashankarkannapan | Facebook" width="22px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
 
 <br />
 
