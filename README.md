@@ -67,4 +67,4 @@
 [website]: https://prabhashankar.web.app
 [twitter]: https://twitter.com/prabhashankar_k
 [linkedin]: https://linkedin.com/in/prabhashankarkannapan
-[facebook]: https://linkedin.com/in/prabhashankarkannapan
+[facebook]: https://facebook.com/prabhashankarkannapan
