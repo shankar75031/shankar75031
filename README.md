@@ -64,6 +64,7 @@
 
 <!-- [website]: https://prabhashankar.in -->
 
-[twitter]: https://twitter.com/shankar7503
-[instagram]: https://instagram.com/shankar75031
-[linkedin]: https://linkedin.com/in/shankar75031
+[website]: https://prabhashankar.web.app
+[twitter]: https://twitter.com/prabhashankar_k
+[linkedin]: https://linkedin.com/in/prabhashankarkannapan
+[facebook]: https://linkedin.com/in/prabhashankarkannapan
