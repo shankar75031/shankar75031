@@ -1,13 +1,13 @@
 ### Hi there, I'm Prabhashankar Kannapan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-[![Visits Badge](https://badges.pufler.dev/visits/shankar75031/shankar75031)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/shankar75031/git-badges)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/shankar75031)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/shankar75031)](https://badges.pufler.dev)
 
 ## A Human Being, also a Full Stack Developer!!
 
 - 🌱 I’m currently learning to live myself out the max. 🏄
-- 🥅 2021 Goals: Contributing to Open Source projects.
+- 🥅 2021 Goals: Level up software development skills
 - ⚡ Fun fact: I love to listen to music, go for a drive and also CODE.
 - 💬 Ask me about what's happening in Kochi, that's my native place.
 - :waxing_crescent_moon: A dark theme lover.
@@ -16,9 +16,10 @@
 
 <!-- [<img align="left" alt="prabhashankar.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 
-[<img align="left" alt="shankar75031 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="prabhashankarkannapan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="shankar75031 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="prabhashankar.web.app" width="22px" src="https://img.icons8.com/cotton/2x/domain.png" />][website]
+[<img align="left" alt="prabhashankar_k | Twitter" width="22px" src="https://img.icons8.com/fluent/2x/twitter.png" />][twitter]
+[<img align="left" alt="prabhashankarkannapan | LinkedIn" width="22px" src="https://img.icons8.com/color/2x/linkedin.png" />][linkedin]
+[<img align="left" alt="prabhashankarkannapan | Facebook" width="22px" src="https://img.icons8.com/fluent/2x/facebook.png" />][facebook]
 
 <br />
 
