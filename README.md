@@ -1,6 +1,6 @@
 ### Hi there, I'm Prabhashankar Kannapan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-[![Visits Badge](https://badges.pufler.dev/visits/shankar75031/git-badges)](https://badges.pufler.dev)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shankar75031.shankar75031)
 [![Repos Badge](https://badges.pufler.dev/repos/shankar75031)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/shankar75031)](https://badges.pufler.dev)
 
